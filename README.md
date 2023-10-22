@@ -1,2 +1,3 @@
-# Notes
-Notes about common knowledge
+# このリポジトリについて
+共有したい知識を追加していきます。
+
